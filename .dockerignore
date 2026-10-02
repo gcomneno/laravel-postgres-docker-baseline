@@ -1,0 +1,7 @@
+.git
+.env
+.m0-pre-sanitization-backup
+.m0-pre-docker-backup
+node_modules
+vendor
+storage/logs/*
