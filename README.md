@@ -165,3 +165,7 @@ It is intended to remain small enough to inspect, understand, and reuse.
 This repository is maintained as a reusable [LABs] building block.
 
 Its purpose is not to be a product or a complete Laravel starter kit. It is a verified technical baseline from which larger labs can start without repeating the same environment setup.
+
+## License
+
+Released under the MIT License. See [LICENSE](./LICENSE).
