@@ -1,2 +1,1 @@
-*
-!.gitignore
+# Keep the Unit test directory tracked without ignoring future test files.
